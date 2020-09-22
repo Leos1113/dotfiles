@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Leos1113
+	email = edgarleonmartin13@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Edgar León Martín
+#	email = leos@MacBook-Pro-de-Edgar.local
+[url "git@gitlab.com:"]
+	insteadOf = https://gitlab.com/
+[url "git@github.com:"]
+	insteadOf = https://github.com/
