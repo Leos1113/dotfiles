@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 16,
+    "editor.detectIndentation": false,
+    "dart.debugExternalLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "terminal.integrated.shell.osx": "/bin/zsh"
+}
